@@ -1,6 +1,6 @@
 
 <div align="center">
-## Hi there 👋, I'm Ismail Shaikh
+<h1>Hi there 👋, I'm Ismail Shaikh</h1> 
 </div>
 ## 🛠️ My Tech Stack
 
