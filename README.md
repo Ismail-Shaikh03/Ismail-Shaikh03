@@ -2,6 +2,7 @@
 <div align="center">
 <h1>Hi there 👋, I'm Ismail Shaikh</h1> 
 </div>
+
 ## 🛠️ My Tech Stack
 
 ### 🌐 Programming Languages
