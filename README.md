@@ -1,4 +1,4 @@
-  ## Hi there 👋, I'm Ismail Shaikh
+## Hi there 👋, I'm Ismail Shaikh
 ## 🛠️ My Tech Stack
 
 ### 🌐 Programming Languages
