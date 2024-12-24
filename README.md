@@ -1,4 +1,7 @@
+
+<div align="center">
 ## Hi there 👋, I'm Ismail Shaikh
+</div>
 ## 🛠️ My Tech Stack
 
 ### 🌐 Programming Languages
