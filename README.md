@@ -3,6 +3,11 @@
 <h1>Hi there 👋, I'm Ismail Shaikh</h1> 
 </div>
 
+- 🔭 I’m currently working on <b>Taste of the World</b>
+- 🌱 I’m currently learning <b>C</b>
+- 📫 How to reach me: ismailsshaikh03@gmail.com
+
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-shaikh-13aa661b8/)
