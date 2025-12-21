@@ -51,7 +51,8 @@
 
 
 ## 📚 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Shaikh03&layout=compact&theme=tokyo-night)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ismail-Shaikh03&layout=compact&theme=tokyonight)
 
 <!--
 **Ismail-Shaikh03/Ismail-Shaikh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
