@@ -3,7 +3,7 @@
 <h1>Hi there 👋, I'm Ismail Shaikh</h1> 
 </div>
 
-- 🔭 I’m currently working on <b>Taste of the World</b>
+- 🔭 I’m currently working on <b>Let Us Cook</b>
 - 🌱 I’m currently learning <b>C</b>
 - 📫 How to reach me: ismailsshaikh03@gmail.com
 
